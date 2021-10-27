@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleApp", "SimpleApp\SimpleApp.csproj", "{67DB9AFE-CD8D-44F7-926F-FA68CB8303AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{9D5A003D-A1B1-43A8-941B-281DF75A2ED7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3AF671D7-2DF2-4369-8ED8-FDB80512F54F}"
+	ProjectSection(SolutionItems) = preProject
+		Jenkinsfile.txt = Jenkinsfile.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DB9AFE-CD8D-44F7-926F-FA68CB8303AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DB9AFE-CD8D-44F7-926F-FA68CB8303AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DB9AFE-CD8D-44F7-926F-FA68CB8303AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DB9AFE-CD8D-44F7-926F-FA68CB8303AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D5A003D-A1B1-43A8-941B-281DF75A2ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5A003D-A1B1-43A8-941B-281DF75A2ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5A003D-A1B1-43A8-941B-281DF75A2ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5A003D-A1B1-43A8-941B-281DF75A2ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D96F1532-8771-4660-9268-4B2BC2CEC852}
+	EndGlobalSection
+EndGlobal

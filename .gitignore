@@ -3,3 +3,6 @@
 ################################################################################
 
 /SimpleApp/UnitTests/bin/Debug/net5.0
+/SimpleApp/SimpleApp/obj
+/SimpleApp/SimpleApp/bin/Debug/net5.0
+/SimpleApp/UnitTests/obj
