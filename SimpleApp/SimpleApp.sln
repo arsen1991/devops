@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\Unit
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3AF671D7-2DF2-4369-8ED8-FDB80512F54F}"
 	ProjectSection(SolutionItems) = preProject
+		Jenkinsfile = Jenkinsfile
 		Jenkinsfile.txt = Jenkinsfile.txt
 	EndProjectSection
 EndProject
